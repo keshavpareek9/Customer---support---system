@@ -52,3 +52,10 @@ Review and refine the response
 
 Display the final answer with category information
 
+<img width="1425" height="811" alt="Screenshot 2025-08-31 at 11 04 24 AM" src="https://github.com/user-attachments/assets/c5063e91-a567-418d-bae4-75fe631b3ab7" />
+
+<img width="1425" height="811" alt="Screenshot 2025-08-31 at 11 04 10 AM" src="https://github.com/user-attachments/assets/93252c3b-f72e-4eed-9e71-c9f9fe874fef" />
+
+<img width="1425" height="811" alt="Screenshot 2025-08-31 at 11 04 04 AM" src="https://github.com/user-attachments/assets/e36b2a4a-33ca-4f75-bc85-e2fa968790f3" />
+
+
