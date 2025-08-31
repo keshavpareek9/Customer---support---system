@@ -1,0 +1,44 @@
+{
+  "billing": [
+    {
+      "question": "How do I update my payment method?",
+      "answer": "You can update your payment method by going to Account Settings > Billing > Payment Methods. From there, you can add a new card or remove an existing one."
+    },
+    {
+      "question": "When will I be charged?",
+      "answer": "You're charged on the same day each month that you signed up. For annual plans, you're charged on the anniversary of your signup date."
+    },
+    {
+      "question": "How do I get a receipt?",
+      "answer": "You can download receipts from your Billing History page. Go to Account Settings > Billing > Billing History to access all your past receipts."
+    }
+  ],
+  "technical": [
+    {
+      "question": "How do I reset my password?",
+      "answer": "Click 'Forgot Password' on the login page and follow the instructions sent to your email. Make sure to check your spam folder if you don't see the email within 5 minutes."
+    },
+    {
+      "question": "The app is crashing on startup",
+      "answer": "Please try clearing your cache and restarting the application. If the problem persists, contact us with your device details including OS version and app version."
+    },
+    {
+      "question": "How do I enable two-factor authentication?",
+      "answer": "Go to Account Settings > Security > Two-Factor Authentication. Follow the prompts to set up 2FA using an authenticator app or SMS."
+    }
+  ],
+  "general": [
+    {
+      "question": "What are your business hours?",
+      "answer": "Our customer support is available 24/7 via chat and email. Phone support is available from 8 AM to 8 PM EST, Monday through Friday."
+    },
+    {
+      "question": "How do I contact customer support?",
+      "answer": "You can reach us through this chat, email at support@company.com, or phone at 1-800-123-4567 during business hours."
+    },
+    {
+      "question": "Where can I find tutorials?",
+      "answer": "We have a comprehensive knowledge base at help.company.com with video tutorials and step-by-step guides for all features."
+    }
+  ]
+}
