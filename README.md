@@ -13,21 +13,7 @@ A sophisticated customer support system that uses multiple specialized AI agents
 - **FastAPI Backend**: RESTful API for integration with other systems
 - **Knowledge Base System**: FAQ-based response generation with similarity matching
 
-## 🏗️Project Structure
-customer-support-system/
-├── agents/
-│   ├── __init__.py
-│   ├── classifier_agent.py    # Query categorization
-│   ├── response_agent.py      # Response generation
-│   └── review_agent.py        # Quality assurance
-├── knowledge_base/
-│   └── faq.json              # Question-answer database
-├── app.py                    # Main application logic
-├── api.py                    # FastAPI backend
-├── ui.py                     # Streamlit frontend
-├── simple_ui.py              # Simplified all-in-one version
-├── requirements.txt          # Python dependencies
-└── README.md                 # This file
+
 
 ## 🛠️ Tech Stack
 
